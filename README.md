@@ -5,6 +5,7 @@
 - POO
 - Enumeração
 - Herança
+- Polimorfismo
 - Encapsulamento/modificadores de acesso
 - Downcasting
 - Membros estáticos 
