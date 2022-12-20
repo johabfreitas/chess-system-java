@@ -9,4 +9,7 @@
 - Encapsulamento/modificadores de acesso
 - Downcasting
 - Membros estáticos 
-- Padrão de desenvolvimento em camadas.
+- Padrão de desenvolvimento em camadas
+- Programação defensiva
+- Construtores
+- Exceções
